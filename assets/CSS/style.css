@@ -1,0 +1,51 @@
+/* <style type="text/css"> */
+  
+    button,
+    div,
+    form,
+    input {
+      margin: 10px;
+    }
+    .jumbotron{
+      background-color: rgb(7, 7, 7);
+      text-align: center;
+      box-align: center;
+      /* width: 900px; */
+      /* align-items: center; */
+      /* margin-left: 500px; */
+    }
+    .row
+    {
+      text-align: center;
+      align-content: center;
+    }
+    .col-4
+    {
+      text-align: center;
+      align-content: center;
+    }
+    .card-text
+    {
+      text-align: left;
+    }
+    .card-img-top
+    {
+      position: relative;
+      top: 15px;
+    }
+    .card
+    {
+      margin: 0 auto;
+      border:20px solid black;
+      /* margin-left: 100px; */
+      background-color: gray;
+      height: 400px;
+      /* width: 300px; */
+      /* align-self: auto; */
+    }
+    .card-title
+    {
+      text-align: left;
+      color: brown;
+    }
+  /* </style> */
